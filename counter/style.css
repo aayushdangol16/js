@@ -1,0 +1,10 @@
+#label{
+    margin-top: 50px;
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+#decrease,#reset,#increase{
+    margin-top: 40px;
+    margin-left: 250px;
+}
