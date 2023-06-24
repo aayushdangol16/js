@@ -240,4 +240,18 @@
 //     console.log("hlw ",username);
 // }
 // greeting("Aayush");
-//aa
+
+
+//Map => object that holds key-value pairs of any data type
+// const store =new Map([
+//     ["t-shirt",20], //key tshirt and value 20;
+//     ["jeans",30],
+//     ["socks",10]
+// ]);
+// console.log(store.get("t-shirt"));
+// console.log(store.size);
+// store.set("hat",40);
+// store.delete("socks");
+// store.forEach((value,key) => {
+//     console.log(key,value);
+// });
